@@ -1,5 +1,3 @@
-from email.policy import default
-from http.client import HTTPResponse, ImproperConnectionState
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .utils import detectUser, send_verification_email

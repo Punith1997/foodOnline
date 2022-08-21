@@ -1,0 +1,3251 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.gis.db.models.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.gis.db.models.fields",
+        "description": "django.contrib.gis.db.models.fields",
+        "detail": "django.contrib.gis.db.models.fields",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "OpeningHour",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "isExtraImport": true,
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.contrib.gis.db",
+        "description": "django.contrib.gis.db",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.db",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "importPath": "django.contrib.gis.geos",
+        "description": "django.contrib.gis.geos",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.geos",
+        "documentation": {}
+    },
+    {
+        "label": "GEOSGeometry",
+        "importPath": "django.contrib.gis.geos",
+        "description": "django.contrib.gis.geos",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.geos",
+        "documentation": {}
+    },
+    {
+        "label": "GEOSGeometry",
+        "importPath": "django.contrib.gis.geos",
+        "description": "django.contrib.gis.geos",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.geos",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_site",
+        "importPath": "django.contrib.sites.shortcuts",
+        "description": "django.contrib.sites.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.contrib.sites.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_decode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "force_bytes",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "default_token_generator",
+        "importPath": "django.contrib.auth.tokens",
+        "description": "django.contrib.auth.tokens",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "default_token_generator",
+        "importPath": "django.contrib.auth.tokens",
+        "description": "django.contrib.auth.tokens",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionDenied",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "VendorForm",
+        "importPath": "vendor.forms",
+        "description": "vendor.forms",
+        "isExtraImport": true,
+        "detail": "vendor.forms",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.template.defaultfilters",
+        "description": "django.template.defaultfilters",
+        "isExtraImport": true,
+        "detail": "django.template.defaultfilters",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.template.defaultfilters",
+        "description": "django.template.defaultfilters",
+        "isExtraImport": true,
+        "detail": "django.template.defaultfilters",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "accounts",
+        "description": "accounts",
+        "isExtraImport": true,
+        "detail": "accounts",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "accounts",
+        "description": "accounts",
+        "isExtraImport": true,
+        "detail": "accounts",
+        "documentation": {}
+    },
+    {
+        "label": "UserInfoForm",
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "isExtraImport": true,
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "isExtraImport": true,
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "isExtraImport": true,
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "constants",
+        "importPath": "django.contrib.messages",
+        "description": "django.contrib.messages",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "marketplace",
+        "description": "marketplace",
+        "isExtraImport": true,
+        "detail": "marketplace",
+        "documentation": {}
+    },
+    {
+        "label": "D",
+        "importPath": "django.contrib.gis.measure",
+        "description": "django.contrib.gis.measure",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.measure",
+        "documentation": {}
+    },
+    {
+        "label": "D",
+        "importPath": "django.contrib.gis.measure",
+        "description": "django.contrib.gis.measure",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.measure",
+        "documentation": {}
+    },
+    {
+        "label": "Distance",
+        "importPath": "django.contrib.gis.db.models.functions",
+        "description": "django.contrib.gis.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "Distance",
+        "importPath": "django.contrib.gis.db.models.functions",
+        "description": "django.contrib.gis.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Prefetch",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "allow_only_images_validator",
+        "importPath": "accounts.validators",
+        "description": "accounts.validators",
+        "isExtraImport": true,
+        "detail": "accounts.validators",
+        "documentation": {}
+    },
+    {
+        "label": "allow_only_images_validator",
+        "importPath": "accounts.validators",
+        "description": "accounts.validators",
+        "isExtraImport": true,
+        "detail": "accounts.validators",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal2tiles",
+        "description": "osgeo_utils.gdal2tiles",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal2tiles",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal2tiles",
+        "description": "osgeo_utils.gdal2tiles",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal2tiles",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "deprecation_warn",
+        "importPath": "osgeo.gdal",
+        "description": "osgeo.gdal",
+        "isExtraImport": true,
+        "detail": "osgeo.gdal",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal2xyz",
+        "description": "osgeo_utils.gdal2xyz",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal2xyz",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal2xyz",
+        "description": "osgeo_utils.gdal2xyz",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal2xyz",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdalattachpct",
+        "description": "osgeo_utils.gdalattachpct",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalattachpct",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdalattachpct",
+        "description": "osgeo_utils.gdalattachpct",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalattachpct",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdalcompare",
+        "description": "osgeo_utils.gdalcompare",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalcompare",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdalcompare",
+        "description": "osgeo_utils.gdalcompare",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalcompare",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdalmove",
+        "description": "osgeo_utils.gdalmove",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalmove",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdalmove",
+        "description": "osgeo_utils.gdalmove",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdalmove",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_calc",
+        "description": "osgeo_utils.gdal_calc",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_calc",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_calc",
+        "description": "osgeo_utils.gdal_calc",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_calc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_edit",
+        "description": "osgeo_utils.gdal_edit",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_edit",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_edit",
+        "description": "osgeo_utils.gdal_edit",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_edit",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_fillnodata",
+        "description": "osgeo_utils.gdal_fillnodata",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_fillnodata",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_fillnodata",
+        "description": "osgeo_utils.gdal_fillnodata",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_fillnodata",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_merge",
+        "description": "osgeo_utils.gdal_merge",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_merge",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_merge",
+        "description": "osgeo_utils.gdal_merge",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_merge",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_pansharpen",
+        "description": "osgeo_utils.gdal_pansharpen",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_pansharpen",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_pansharpen",
+        "description": "osgeo_utils.gdal_pansharpen",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_pansharpen",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_polygonize",
+        "description": "osgeo_utils.gdal_polygonize",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_polygonize",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_polygonize",
+        "description": "osgeo_utils.gdal_polygonize",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_polygonize",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_proximity",
+        "description": "osgeo_utils.gdal_proximity",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_proximity",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_proximity",
+        "description": "osgeo_utils.gdal_proximity",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_proximity",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_retile",
+        "description": "osgeo_utils.gdal_retile",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_retile",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_retile",
+        "description": "osgeo_utils.gdal_retile",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_retile",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.gdal_sieve",
+        "description": "osgeo_utils.gdal_sieve",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_sieve",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.gdal_sieve",
+        "description": "osgeo_utils.gdal_sieve",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.gdal_sieve",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.ogrmerge",
+        "description": "osgeo_utils.ogrmerge",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.ogrmerge",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.ogrmerge",
+        "description": "osgeo_utils.ogrmerge",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.ogrmerge",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.pct2rgb",
+        "description": "osgeo_utils.pct2rgb",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.pct2rgb",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.pct2rgb",
+        "description": "osgeo_utils.pct2rgb",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.pct2rgb",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "osgeo_utils.rgb2pct",
+        "description": "osgeo_utils.rgb2pct",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.rgb2pct",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "osgeo_utils.rgb2pct",
+        "description": "osgeo_utils.rgb2pct",
+        "isExtraImport": true,
+        "detail": "osgeo_utils.rgb2pct",
+        "documentation": {}
+    },
+    {
+        "label": "fromshare",
+        "importPath": "socket",
+        "description": "socket",
+        "isExtraImport": true,
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification",
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "isExtraImport": true,
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "check_role_vendor",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryForm",
+        "importPath": "menu.forms",
+        "description": "menu.forms",
+        "isExtraImport": true,
+        "detail": "menu.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItemForm",
+        "importPath": "menu.forms",
+        "description": "menu.forms",
+        "isExtraImport": true,
+        "detail": "menu.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0002_userprofile",
+        "description": "accounts.migrations.0002_userprofile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('profile_picture', models.ImageField(blank=True, null=True, upload_to='users/profile_pictures')),",
+        "detail": "accounts.migrations.0002_userprofile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0003_alter_user_role",
+        "description": "accounts.migrations.0003_alter_user_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0002_userprofile'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='role',\n            field=models.PositiveSmallIntegerField(blank=True, choices=[(1, 'Vendor'), (2, 'Customer')], null=True),\n        ),",
+        "detail": "accounts.migrations.0003_alter_user_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0004_alter_user_last_login",
+        "description": "accounts.migrations.0004_alter_user_last_login",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0003_alter_user_role'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='last_login',\n            field=models.DateTimeField(auto_now_add=True),\n        ),",
+        "detail": "accounts.migrations.0004_alter_user_last_login",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0005_userprofile_address_line_2",
+        "description": "accounts.migrations.0005_userprofile_address_line_2",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0004_alter_user_last_login'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='address_line_2',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "accounts.migrations.0005_userprofile_address_line_2",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0006_auto_20220814_1301",
+        "description": "accounts.migrations.0006_auto_20220814_1301",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0005_userprofile_address_line_2'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userprofile',\n            name='address_line_1',\n        ),\n        migrations.RemoveField(",
+        "detail": "accounts.migrations.0006_auto_20220814_1301",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0007_userprofile_location",
+        "description": "accounts.migrations.0007_userprofile_location",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0006_auto_20220814_1301'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='location',\n            field=django.contrib.gis.db.models.fields.PointField(blank=True, null=True, srid=4326),\n        ),",
+        "detail": "accounts.migrations.0007_userprofile_location",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    list_display = ('email', 'first_name', 'last_name', 'username', 'role', 'is_active', 'is_admin')\n    ordering = ('-date_joined',)\n    filter_horizontal = ()\n    list_filter = ()\n    fieldsets = ()\nadmin.site.register(User,CustomUserAdmin)\nadmin.site.register(UserProfile)",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'\n    def ready(self):\n        import accounts.signals",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "get_vendor",
+        "kind": 2,
+        "importPath": "accounts.context_processors",
+        "description": "accounts.context_processors",
+        "peekOfCode": "def get_vendor(request):\n    try:\n        vendor = Vendor.objects.get(user=request.user)\n    except:\n        vendor = None\n    return dict(vendor=vendor)\ndef get_user_profile(request):\n    try:\n        user_profile = UserProfile.objects.get(user = request.user)\n    except:",
+        "detail": "accounts.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_profile",
+        "kind": 2,
+        "importPath": "accounts.context_processors",
+        "description": "accounts.context_processors",
+        "peekOfCode": "def get_user_profile(request):\n    try:\n        user_profile = UserProfile.objects.get(user = request.user)\n    except:\n        user_profile=None\n    return dict(user_profile=user_profile)\ndef get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}",
+        "detail": "accounts.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "get_google_api",
+        "kind": 2,
+        "importPath": "accounts.context_processors",
+        "description": "accounts.context_processors",
+        "peekOfCode": "def get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}",
+        "detail": "accounts.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserForm(forms.ModelForm):\n    password = forms.CharField(widget = forms.PasswordInput())\n    confirm_password = forms.CharField(widget = forms.PasswordInput())\n    class Meta:\n        model = User\n        fields = ['first_name', 'last_name', 'username', 'email', 'password']\n    def clean(self):\n        cleaned_data = super(UserForm, self).clean()\n        password = cleaned_data['password']\n        confirm_password = cleaned_data['confirm_password']",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserProfileForm(forms.ModelForm):\n    address = forms.CharField(widget=forms.TimeInput(attrs={'placeholder':'start typing....', 'required':'required'}))\n    profile_picture = forms.FileField(widget=forms.FileInput(attrs={'class':'btn btn-info'}), validators=[allow_only_images_validator])\n    cover_photo = forms.FileField(widget=forms.FileInput(attrs={'class':'btn btn-info'}), validators=[allow_only_images_validator])\n    # latitude = forms.CharField(widget=forms.TextInput(attrs={'readonly': 'readonly'}))\n    # longitude = forms.CharField(widget=forms.TextInput(attrs={'readonly': 'readonly'}))\n    class Meta:\n        model = UserProfile\n        fields = ['profile_picture', 'cover_photo', 'address', 'country', 'state', 'city', 'pincode', 'latitude', 'longitude']\n    def __init__(self, *args, **kwargs):",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserInfoForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserInfoForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = ['first_name', 'last_name', 'phone_number']",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    def create_user(self, first_name, last_name, username, email, password=None):\n        if not email:\n            raise ValueError(\"User must have an email address\")\n        if not username:\n            raise ValueError(\"User must have username\")\n        user = self.model(\n            email = self.normalize_email(email),\n            username = username,\n            first_name = first_name,",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class User(AbstractBaseUser):\n    VENDOR = 1\n    CUSTOMER = 2\n    ROLE_CHOICE = (\n        (VENDOR, 'Vendor'),\n        (CUSTOMER, 'Customer'),\n    )\n    first_name = models.CharField(max_length=50)\n    last_name = models.CharField(max_length=50)\n    username = models.CharField(max_length=50, unique=True)",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User, on_delete = models.CASCADE, blank=True, null = True)\n    profile_picture = models.ImageField(upload_to = 'users/profile_pictures', blank = True, null = True)\n    cover_photo = models.ImageField(upload_to = 'users/cover_photos', blank = True, null = True)\n    address = models.CharField(max_length=250, blank=True, null=True)\n    country = models.CharField(max_length=15, blank=True, null=True)\n    state = models.CharField(max_length=15, blank=True, null=True)\n    city = models.CharField(max_length=15, blank=True, null=True)\n    pincode = models.CharField(max_length=6, blank=True, null=True)\n    latitude = models.CharField(max_length=20, blank=True, null=True)",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "post_Save_create_profile_reciever",
+        "kind": 2,
+        "importPath": "accounts.signals",
+        "description": "accounts.signals",
+        "peekOfCode": "def post_Save_create_profile_reciever(sender, instance, created, **kwargs):\n    # print(created)\n    if created:\n        UserProfile.objects.create(user = instance)\n        # print(\"create the user profile\")\n    else:\n        try:\n            profile = UserProfile.objects.get(user = instance)\n            profile.save()\n            # print(\"user is updated\")",
+        "detail": "accounts.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save_profile_reciever",
+        "kind": 2,
+        "importPath": "accounts.signals",
+        "description": "accounts.signals",
+        "peekOfCode": "def pre_save_profile_reciever(sender, instance, **kwargs):\n    # print(instance.username, 'this user is being saved')\n    pass",
+        "detail": "accounts.signals",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.myAccount),\n    path('registerUser/', views.registerUser, name='registerUser'),\n    path('registerVendor/', views.registerVendor, name='registerVendor'),\n    path('login/', views.login, name='login'),\n    path('logout/', views.logout, name='logout'),\n    path('myAccount/', views.myAccount, name='myAccount'),\n    path('custDashboard/', views.custDashboard, name='custDashboard'),\n    path('vendorDashboard/', views.vendorDashboard, name='vendorDashboard'),\n    path('activate/<uidb64>/<token>/', views.activate,  name = 'activate'),",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "detectUser",
+        "kind": 2,
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "peekOfCode": "def detectUser(user):\n    if user.role == 1:\n        redirectUrl = 'vendorDashboard'\n        return redirectUrl\n    elif user.role == 2:\n        redirectUrl = 'custDashboard'\n        return redirectUrl\n    elif user.role is None and user.is_superadmin:\n        redirectUrl = '/admin'\n        return redirectUrl",
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_verification_email",
+        "kind": 2,
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "peekOfCode": "def send_verification_email(request, user, mail_subject, email_template):\n    from_email = settings.DEFAULT_FROM_EMAIL\n    current_site = get_current_site(request)\n    message = render_to_string(email_template,\n        {\n            'user': user,\n            'domain': current_site,\n            'uid': urlsafe_base64_encode(force_bytes(user.pk)),\n            'token': default_token_generator.make_token(user),\n        },",
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification",
+        "kind": 2,
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "peekOfCode": "def send_notification(mail_subject, mail_template, context):\n    from_email = settings.DEFAULT_FROM_EMAIL\n    message = render_to_string(mail_template, context)\n    to_email = context['user'].email\n    mail = EmailMessage(mail_subject, message, from_email, to = [to_email])\n    mail.send()",
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "allow_only_images_validator",
+        "kind": 2,
+        "importPath": "accounts.validators",
+        "description": "accounts.validators",
+        "peekOfCode": "def allow_only_images_validator(value):\n    ext = os.path.splitext(value.name)[-1]\n    # print(ext)\n    valid_extensions = ['.png', '.jpg', '.jpeg']\n    if not ext.lower() in valid_extensions:\n        raise ValidationError('Unsupported file extensions. Allowed extensions: '+ str(valid_extensions))",
+        "detail": "accounts.validators",
+        "documentation": {}
+    },
+    {
+        "label": "check_role_vendor",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def check_role_vendor(user):\n    if user.role == 1:\n        return True\n    else:\n        raise PermissionDenied\ndef check_role_customer(user):\n    if user.role == 2:\n        return True\n    else:\n        raise PermissionDenied",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "check_role_customer",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def check_role_customer(user):\n    if user.role == 2:\n        return True\n    else:\n        raise PermissionDenied\ndef registerUser(request):\n    if request.user.is_authenticated:\n        messages.warning(request, \"You are already logged in!\")\n        return redirect('dashboard')\n    elif request.method == 'POST':",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "registerUser",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def registerUser(request):\n    if request.user.is_authenticated:\n        messages.warning(request, \"You are already logged in!\")\n        return redirect('dashboard')\n    elif request.method == 'POST':\n        # print(request.POST)\n        form = UserForm(request.POST)\n        if form.is_valid():\n            # password = form.cleaned_data['password']\n            # user = form.save(commit=False)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "registerVendor",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def registerVendor(request):\n    if request.user.is_authenticated:\n        messages.warning(request, \"You are already logged in!\")\n        return redirect('myAccount')\n    elif request.method == 'POST':\n        form = UserForm(request.POST)\n        v_form = VendorForm(request.POST, request.FILES)\n        if form.is_valid() and v_form.is_valid():\n            first_name = form.cleaned_data['first_name']\n            last_name = form.cleaned_data['last_name']",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "activate",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def activate(request, uidb64, token):\n    try:\n        uid = urlsafe_base64_decode(uidb64).decode()\n        user = User._default_manager.get(pk=uid)\n    except(TypeError, ValueError, OverflowError, User.DoesNotExist):\n        user = None\n    if user is not None and default_token_generator.check_token(user, token):\n        user.is_active = True\n        user.save()\n        messages.success(request, \"Congratulations Your account is activated\")",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def login(request):\n    if request.user.is_authenticated:\n        messages.warning(request, \"You are already logged in!\")\n        return redirect('myAccount')\n    elif request.method == 'POST':\n        email = request.POST['email']\n        password = request.POST['password']\n        user = auth.authenticate(email=email, password=password)\n        if user is not None:\n            auth.login(request, user)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def logout(request):\n    auth.logout(request)\n    messages.info(request, \"You are logged out.\")\n    return redirect('login')\n@login_required(login_url='login')\ndef myAccount(request):\n    user = request.user\n    redirectUrl = detectUser(user)\n    return redirect(redirectUrl)\n@login_required(login_url='login')",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "myAccount",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def myAccount(request):\n    user = request.user\n    redirectUrl = detectUser(user)\n    return redirect(redirectUrl)\n@login_required(login_url='login')\n@user_passes_test(check_role_customer)\ndef custDashboard(request):\n    return render(request, 'accounts/custDashboard.html')\n@login_required(login_url='login')\n@user_passes_test(check_role_vendor)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "custDashboard",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def custDashboard(request):\n    return render(request, 'accounts/custDashboard.html')\n@login_required(login_url='login')\n@user_passes_test(check_role_vendor)\ndef vendorDashboard(request):\n    return render(request, 'accounts/vendorDashboard.html')\ndef forgot_password(request):\n    if request.method == 'POST':\n        email = request.POST['email']\n        if User.objects.filter(email=email).exists():",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "vendorDashboard",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def vendorDashboard(request):\n    return render(request, 'accounts/vendorDashboard.html')\ndef forgot_password(request):\n    if request.method == 'POST':\n        email = request.POST['email']\n        if User.objects.filter(email=email).exists():\n            user = User.objects.get(email__exact = email)\n            mail_subject = 'Reset Your Password'\n            email_template = 'accounts/emails/reset_password_email.html'\n            send_verification_email(request, user, mail_subject, email_template)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "forgot_password",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def forgot_password(request):\n    if request.method == 'POST':\n        email = request.POST['email']\n        if User.objects.filter(email=email).exists():\n            user = User.objects.get(email__exact = email)\n            mail_subject = 'Reset Your Password'\n            email_template = 'accounts/emails/reset_password_email.html'\n            send_verification_email(request, user, mail_subject, email_template)\n            messages.success(request, \"Password reset link has been sent to your email address\")\n            return redirect('login')",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "reset_password_validate",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def reset_password_validate(request, uidb64, token):\n    try:\n        uid = urlsafe_base64_decode(uidb64).decode()\n        user = User._default_manager.get(pk=uid)\n    except(TypeError, ValueError, OverflowError, User.DoesNotExist):\n        user = None\n    if user is not None and default_token_generator.check_token(user, token):\n        request.session['uid'] = uid\n        messages.info(request, 'Please reset your password')\n        return redirect('reset_password')",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "reset_password",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def reset_password(request):\n    if request.method == 'POST':\n        password = request.POST['password']\n        confirm_password = request.POST['confirm_password']\n        if password == confirm_password:\n            pk = request.session['uid']\n            user = User.objects.get(pk=pk)\n            user.set_password(password)\n            user.is_active = True\n            user.save()",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomersConfig",
+        "kind": 6,
+        "importPath": "customers.apps",
+        "description": "customers.apps",
+        "peekOfCode": "class CustomersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'customers'",
+        "detail": "customers.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "customers.urls",
+        "description": "customers.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", AccountViews.custDashboard, name=\"customer\"),\n    path(\"profile/\", views.cprofile, name = \"cprofile\"),\n]",
+        "detail": "customers.urls",
+        "documentation": {}
+    },
+    {
+        "label": "cprofile",
+        "kind": 2,
+        "importPath": "customers.views",
+        "description": "customers.views",
+        "peekOfCode": "def cprofile(request):\n    profile = get_object_or_404(UserProfile, user = request.user)\n    if request.method == 'POST':\n        profile_form = UserProfileForm(request.POST, request.FILES, instance = profile)\n        user_form = UserInfoForm(request.POST, instance=request.user)\n        if profile_form.is_valid() and user_form.is_valid():\n            profile_form.save()\n            user_form.save()\n            messages.success(request, 'Profile ipdated')\n            return redirect('cprofile')",
+        "detail": "customers.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "foodOnline_main.asgi",
+        "description": "foodOnline_main.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "foodOnline_main.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "EMAIL_HOST = config('EMAIL_HOST')\nEMAIL_PORT = config('EMAIL_PORT')\nEMAIL_HOST_USER = config('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', cast = bool)\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "EMAIL_PORT = config('EMAIL_PORT')\nEMAIL_HOST_USER = config('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', cast = bool)\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "EMAIL_HOST_USER = config('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', cast = bool)\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')\nEMAIL_USE_TLS = config('EMAIL_USE_TLS', cast = bool)\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "EMAIL_USE_TLS = config('EMAIL_USE_TLS', cast = bool)\nDEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "foodOnline_main.email_info",
+        "description": "foodOnline_main.email_info",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL')",
+        "detail": "foodOnline_main.email_info",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = config('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = config('DEBUG', cast = bool)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "SECRET_KEY = config('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = config('DEBUG', cast = bool)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "DEBUG = config('DEBUG', cast = bool)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'accounts',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'accounts',\n    'vendor',\n    'menu',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'foodOnline_main.urls'",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "ROOT_URLCONF = 'foodOnline_main.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\"templates\",],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\"templates\",],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'foodOnline_main.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        # 'ENGINE': 'django.db.backends.postgresql',\n        'ENGINE': 'django.contrib.gis.db.backends.postgis',\n        'NAME': config('DB_NAME'),\n        'USER': config('DB_USER'),\n        'PASSWORD': config('DB_PASSWORD'),",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        # 'ENGINE': 'django.db.backends.postgresql',\n        'ENGINE': 'django.contrib.gis.db.backends.postgis',\n        'NAME': config('DB_NAME'),\n        'USER': config('DB_USER'),\n        'PASSWORD': config('DB_PASSWORD'),\n        'HOST': config('DB_HOST'),\n    }\n}",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'accounts.User' # me done\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]\nMEDIA_URL = '/media/'",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR /'media'",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR /'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR /'static'\nSTATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR /'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.contrib.messages import constants as messages",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    \"foodOnline_main/static\"\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR /'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR /'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger',\n}\n#Emain configuration",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR /'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger',\n}\n#Emain configuration\nEMAIL_HOST = EMAIL_HOST",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nfrom django.contrib.messages import constants as messages\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger',\n}\n#Emain configuration\nEMAIL_HOST = EMAIL_HOST\nEMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_TAGS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "MESSAGE_TAGS = {\n    messages.ERROR: 'danger',\n}\n#Emain configuration\nEMAIL_HOST = EMAIL_HOST\nEMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "EMAIL_HOST = EMAIL_HOST\nEMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "EMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "EMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "EMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GOOGLE_API_KEY",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "GOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['PATH']",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "os.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['PROJ_LIB']",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "os.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GDAL_LIBRARY_PATH",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "GDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "foodOnline_main.urls",
+        "description": "foodOnline_main.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\", views.home, name = 'home'),\n    path('', include('accounts.urls')),\n    path('marketplace/', include('marketplace.urls')),\n    path('cart/', MarketplaceViews.cart, name = \"cart\"),\n    path('search/', MarketplaceViews.search, name = 'search' ),\n] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)",
+        "detail": "foodOnline_main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_or_set_current_location",
+        "kind": 2,
+        "importPath": "foodOnline_main.views",
+        "description": "foodOnline_main.views",
+        "peekOfCode": "def get_or_set_current_location(request):\n    if 'lat' in request.session:\n        lat = request.session['lat']\n        lng = request.session['lng']\n        return lng, lat\n    elif \"lat\" in request.GET:\n        lat = request.GET['lat']\n        lng = request.GET['lng']\n        request.session['lat'] = lat\n        request.session['lng'] = lng",
+        "detail": "foodOnline_main.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "foodOnline_main.views",
+        "description": "foodOnline_main.views",
+        "peekOfCode": "def home(request):\n    if get_or_set_current_location(request) is not None:\n        pnt = GEOSGeometry('Point(%s %s)' % (get_or_set_current_location(request)))\n        vendors = Vendor.objects.filter(user_profile__location__distance_lte = (pnt, D(km=1000))).annotate(distance=Distance(\"user_profile__location\", pnt)).order_by(\"distance\")\n        for v in vendors:\n            v.kms = round(v.distance.km, 1)\n        vendor_count = vendors.count()\n    else:\n        vendors = Vendor.objects.filter(is_approved=True, user__is_active = True).order_by('created_at')[:8]\n    # print(vendors)",
+        "detail": "foodOnline_main.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "foodOnline_main.wsgi",
+        "description": "foodOnline_main.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "foodOnline_main.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "marketplace.migrations.0001_initial",
+        "description": "marketplace.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('menu', '0007_alter_fooditem_category'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cart',\n            fields=[",
+        "detail": "marketplace.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "marketplace.migrations.0002_tax",
+        "description": "marketplace.migrations.0002_tax",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('marketplace', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Tax',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('tax_type', models.CharField(max_length=20, unique=True)),",
+        "detail": "marketplace.migrations.0002_tax",
+        "documentation": {}
+    },
+    {
+        "label": "CartAdmin",
+        "kind": 6,
+        "importPath": "marketplace.admin",
+        "description": "marketplace.admin",
+        "peekOfCode": "class CartAdmin(admin.ModelAdmin):\n    list_display = ('user', 'fooditem', 'quantity', 'updated_at')\nclass TaxAdmin(admin.ModelAdmin):\n    list_display = ('tax_type', 'tax_percentage', 'is_active')\n# Register your models here.\nadmin.site.register(Cart, CartAdmin)\nadmin.site.register(Tax, TaxAdmin)",
+        "detail": "marketplace.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TaxAdmin",
+        "kind": 6,
+        "importPath": "marketplace.admin",
+        "description": "marketplace.admin",
+        "peekOfCode": "class TaxAdmin(admin.ModelAdmin):\n    list_display = ('tax_type', 'tax_percentage', 'is_active')\n# Register your models here.\nadmin.site.register(Cart, CartAdmin)\nadmin.site.register(Tax, TaxAdmin)",
+        "detail": "marketplace.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MarketplaceConfig",
+        "kind": 6,
+        "importPath": "marketplace.apps",
+        "description": "marketplace.apps",
+        "peekOfCode": "class MarketplaceConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'marketplace'",
+        "detail": "marketplace.apps",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_counter",
+        "kind": 2,
+        "importPath": "marketplace.context_processors",
+        "description": "marketplace.context_processors",
+        "peekOfCode": "def get_cart_counter(request):\n    cart_count = 0\n    if request.user.is_authenticated:\n        try:\n            cart_items = Cart.objects.filter(user = request.user)\n            if cart_items:\n                for cart_item in cart_items:\n                    cart_count = cart_count + cart_item.quantity\n            else:\n                cart_count = 0",
+        "detail": "marketplace.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_amount",
+        "kind": 2,
+        "importPath": "marketplace.context_processors",
+        "description": "marketplace.context_processors",
+        "peekOfCode": "def get_cart_amount(request):\n    subtotal = 0\n    grand_total = 0\n    tax = 0\n    tax_dict = {}\n    if request.user.is_authenticated:\n        cart_items = Cart.objects.filter(user = request.user)\n        for item in cart_items:\n            fooditem = FoodItem.objects.get(pk = item.fooditem.id)\n            subtotal = subtotal + (fooditem.price * item.quantity)",
+        "detail": "marketplace.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "marketplace.models",
+        "description": "marketplace.models",
+        "peekOfCode": "class Cart(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    fooditem = models.ForeignKey(FoodItem, on_delete=models.CASCADE)\n    quantity = models.PositiveIntegerField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    def __unicode__(self):\n        return self.user\nclass Tax(models.Model):\n    tax_type = models.CharField(max_length=20, unique=True)",
+        "detail": "marketplace.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tax",
+        "kind": 6,
+        "importPath": "marketplace.models",
+        "description": "marketplace.models",
+        "peekOfCode": "class Tax(models.Model):\n    tax_type = models.CharField(max_length=20, unique=True)\n    tax_percentage = models.DecimalField(decimal_places=2, max_digits=4, verbose_name='Tax Percentage (%)')\n    is_active = models.BooleanField(default=True)\n    class Meta:\n        verbose_name_plural = 'tax'\n    def __str__(self):\n        return self.tax_type",
+        "detail": "marketplace.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "marketplace.urls",
+        "description": "marketplace.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.marketplace, name = 'marketplace'),\n    path('<slug:vendor_slug>/', views.vendor_detail, name = 'vendor_detail'),\n    path('add_to_cart/<int:food_id>/', views.add_to_cart, name = 'add_to_cart'),\n    path('decrease_cart/<int:food_id>/', views.decrease_cart, name = 'decrease_cart'),\n    path('delete_cart/<int:cart_id>/', views.delete_cart, name = 'delete_cart'),\n]",
+        "detail": "marketplace.urls",
+        "documentation": {}
+    },
+    {
+        "label": "marketplace",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def marketplace(request):\n    vendors = Vendor.objects.filter(is_approved=True, user__is_active = True).order_by('created_at')\n    vendor_count = vendors.count()\n    context = {\n        'vendors': vendors,\n        'vendor_count':vendor_count,\n    }\n    return render(request, 'marketplace/listings.html', context)\ndef vendor_detail(request, vendor_slug = None):\n    vendor = get_object_or_404(Vendor, vendor_slug = vendor_slug)",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "vendor_detail",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def vendor_detail(request, vendor_slug = None):\n    vendor = get_object_or_404(Vendor, vendor_slug = vendor_slug)\n    categories = Category.objects.filter(vendor = vendor).prefetch_related(\n        Prefetch(\n            'fooditems',\n            queryset = FoodItem.objects.filter(is_available = True),\n        )\n    )\n    opening_hours = OpeningHour.objects.filter(vendor = vendor).order_by('day', '-from_hour')\n    today_date = date.today()",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def add_to_cart(request, food_id = None):\n    if request.user.is_authenticated:\n        if request.is_ajax():\n            try:\n                food_item = FoodItem.objects.get(id = food_id)\n                try:\n                    chkCart = Cart.objects.get(user=request.user, fooditem = food_item)\n                    chkCart.quantity = chkCart.quantity + 1\n                    chkCart.save()\n                    return JsonResponse({'status':'Success', 'message':'Increased the cart quantity', 'cart_counter': get_cart_counter(request), 'qty': chkCart.quantity, 'cart_amount': get_cart_amount(request)})",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "decrease_cart",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def decrease_cart(request, food_id = None):\n    if request.user.is_authenticated:\n        if request.is_ajax():\n        # if request.headers.get('x-requested-with') == 'XMLHttpRequest':   # in Django 4.0 to check whether it is ajax request or not\n            try:\n                food_item = FoodItem.objects.get(id = food_id)\n                try:\n                    chkCart = Cart.objects.get(user=request.user, fooditem = food_item)\n                    if chkCart.quantity > 1:\n                        chkCart.quantity = chkCart.quantity - 1",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def cart(request):\n    cart_items = Cart.objects.filter(user = request.user).order_by(\"created_at\")\n    context = {\n        'cart_items': cart_items,\n    }\n    return render(request, 'marketplace/cart.html', context)\ndef delete_cart(request, cart_id):\n    if request.user.is_authenticated:\n        if request.is_ajax():\n            try:",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_cart",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def delete_cart(request, cart_id):\n    if request.user.is_authenticated:\n        if request.is_ajax():\n            try:\n                cart_item = Cart.objects.get(user = request.user, id = cart_id)\n                # print(\"********\")\n                # print(cart_item)\n                if cart_item:\n                    cart_item.delete()\n                    return JsonResponse({'status':'Success', 'message':'Cart item has been deleted!', 'cart_counter': get_cart_counter(request), 'cart_amount': get_cart_amount(request) })",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def search(request):\n    if not 'address' in request.GET:\n        return redirect('marketplace')\n    else:\n        address = request.GET[\"address\"]\n        latitude = request.GET['lat']\n        longitude = request.GET['lng']\n        radius = request.GET['radius']\n        keyword = request.GET['keyword']\n        fetch_vendors_by_fooditems = FoodItem.objects.filter(food_title__icontains = keyword, is_available = True).values_list('vendor', flat=True)",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "@login_required(login_url",
+        "kind": 5,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "@login_required(login_url = 'login')\ndef cart(request):\n    cart_items = Cart.objects.filter(user = request.user).order_by(\"created_at\")\n    context = {\n        'cart_items': cart_items,\n    }\n    return render(request, 'marketplace/cart.html', context)\ndef delete_cart(request, cart_id):\n    if request.user.is_authenticated:\n        if request.is_ajax():",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0001_initial",
+        "description": "menu.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('vendor', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='FoodItem',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "menu.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0002_auto_20220814_1932",
+        "description": "menu.migrations.0002_auto_20220814_1932",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='category',\n            options={'verbose_name': 'category', 'verbose_name_plural': 'categories'},\n        ),\n        migrations.RemoveField(",
+        "detail": "menu.migrations.0002_auto_20220814_1932",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0003_alter_fooditem_category",
+        "description": "menu.migrations.0003_alter_fooditem_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0002_auto_20220814_1932'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='fooditem',\n            name='category',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='menu.category'),\n        ),",
+        "detail": "menu.migrations.0003_alter_fooditem_category",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0004_alter_fooditem_category",
+        "description": "menu.migrations.0004_alter_fooditem_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0003_alter_fooditem_category'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='fooditem',\n            name='category',\n            field=models.ForeignKey(blank=True, on_delete=django.db.models.deletion.CASCADE, to='menu.category'),\n        ),",
+        "detail": "menu.migrations.0004_alter_fooditem_category",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0005_alter_category_category_name",
+        "description": "menu.migrations.0005_alter_category_category_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0004_alter_fooditem_category'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='category',\n            name='category_name',\n            field=models.CharField(blank=True, max_length=50, unique=True),\n        ),",
+        "detail": "menu.migrations.0005_alter_category_category_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0006_alter_category_category_name",
+        "description": "menu.migrations.0006_alter_category_category_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0005_alter_category_category_name'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='category',\n            name='category_name',\n            field=models.CharField(max_length=50, unique=True),\n        ),",
+        "detail": "menu.migrations.0006_alter_category_category_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0007_alter_fooditem_category",
+        "description": "menu.migrations.0007_alter_fooditem_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0006_alter_category_category_name'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='fooditem',\n            name='category',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='fooditems', to='menu.category'),\n        ),",
+        "detail": "menu.migrations.0007_alter_fooditem_category",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0008_alter_category_category_name",
+        "description": "menu.migrations.0008_alter_category_category_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('menu', '0007_alter_fooditem_category'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='category',\n            name='category_name',\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "menu.migrations.0008_alter_category_category_name",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "menu.admin",
+        "description": "menu.admin",
+        "peekOfCode": "class CategoryAdmin(admin.ModelAdmin):\n    prepopulated_fields = {'slug':('category_name',)}\n    list_display = ('category_name', 'vendor', 'updated_at')\n    search_fields =  ('category_name', 'vendor__vendor_name')\nclass FoodItemAdmin(admin.ModelAdmin):\n    prepopulated_fields =  {'slug': ('food_title',)}\n    list_display = ('food_title', 'category', 'vendor',  'price', 'is_available', 'updated_at')\n    search_fields =  ('food_title', 'category__category_name', 'vendor__vendor_name', 'price')\n    list_filter = ('is_available',)\n    list_editable = ('is_available',)",
+        "detail": "menu.admin",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItemAdmin",
+        "kind": 6,
+        "importPath": "menu.admin",
+        "description": "menu.admin",
+        "peekOfCode": "class FoodItemAdmin(admin.ModelAdmin):\n    prepopulated_fields =  {'slug': ('food_title',)}\n    list_display = ('food_title', 'category', 'vendor',  'price', 'is_available', 'updated_at')\n    search_fields =  ('food_title', 'category__category_name', 'vendor__vendor_name', 'price')\n    list_filter = ('is_available',)\n    list_editable = ('is_available',)\n# Register your models here.\nadmin.site.register(Category, CategoryAdmin)\nadmin.site.register(FoodItem, FoodItemAdmin)",
+        "detail": "menu.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MenuConfig",
+        "kind": 6,
+        "importPath": "menu.apps",
+        "description": "menu.apps",
+        "peekOfCode": "class MenuConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'menu'",
+        "detail": "menu.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryForm",
+        "kind": 6,
+        "importPath": "menu.forms",
+        "description": "menu.forms",
+        "peekOfCode": "class CategoryForm(forms.ModelForm):\n    class Meta:\n        model = Category\n        fields = ['category_name', 'description']\nclass FoodItemForm(forms.ModelForm):\n    image = forms.FileField(widget=forms.FileInput(attrs={'class':'btn btn-info w-100'}), validators = [allow_only_images_validator])\n    class Meta:\n        model = FoodItem\n        fields = ['category', 'food_title', 'description', 'price', 'image', 'is_available']",
+        "detail": "menu.forms",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItemForm",
+        "kind": 6,
+        "importPath": "menu.forms",
+        "description": "menu.forms",
+        "peekOfCode": "class FoodItemForm(forms.ModelForm):\n    image = forms.FileField(widget=forms.FileInput(attrs={'class':'btn btn-info w-100'}), validators = [allow_only_images_validator])\n    class Meta:\n        model = FoodItem\n        fields = ['category', 'food_title', 'description', 'price', 'image', 'is_available']",
+        "detail": "menu.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class Category(models.Model):\n    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE)\n    category_name = models.CharField(max_length=50)\n    slug = models.SlugField(max_length=100, unique=True)\n    description = models.TextField(max_length=250, blank=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    class Meta:\n        verbose_name = 'category'\n        verbose_name_plural = 'categories'",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class FoodItem(models.Model):\n    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE)\n    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name = 'fooditems')\n    food_title = models.CharField(max_length=50)\n    slug = models.SlugField(max_length=100, unique=True)\n    description = models.TextField(max_length=250, blank=True)\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    image = models.ImageField(upload_to = 'foodimages')\n    is_available = models.BooleanField(default=True)\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vendor.migrations.0001_initial",
+        "description": "vendor.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('accounts', '0002_userprofile'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Vendor',\n            fields=[",
+        "detail": "vendor.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vendor.migrations.0002_vendor_vendor_slug",
+        "description": "vendor.migrations.0002_vendor_vendor_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vendor', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='vendor',\n            name='vendor_slug',\n            field=models.SlugField(blank=True, max_length=100),\n        ),",
+        "detail": "vendor.migrations.0002_vendor_vendor_slug",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vendor.migrations.0003_alter_vendor_vendor_slug",
+        "description": "vendor.migrations.0003_alter_vendor_vendor_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vendor', '0002_vendor_vendor_slug'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='vendor',\n            name='vendor_slug',\n            field=models.SlugField(max_length=100, unique=True),\n        ),",
+        "detail": "vendor.migrations.0003_alter_vendor_vendor_slug",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vendor.migrations.0004_openinghour",
+        "description": "vendor.migrations.0004_openinghour",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vendor', '0003_alter_vendor_vendor_slug'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='OpeningHour',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('day', models.IntegerField(choices=[(1, 'Monday'), (2, 'Tuesday'), (3, 'Wednesday'), (4, 'Thursday'), (5, 'Friday'), (6, 'Saturday'), (7, 'Sunday')])),",
+        "detail": "vendor.migrations.0004_openinghour",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vendor.migrations.0005_auto_20220819_2124",
+        "description": "vendor.migrations.0005_auto_20220819_2124",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vendor', '0004_openinghour'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='openinghour',\n            options={'ordering': ('day', '-from_hour')},\n        ),\n        migrations.AlterUniqueTogether(",
+        "detail": "vendor.migrations.0005_auto_20220819_2124",
+        "documentation": {}
+    },
+    {
+        "label": "VendorAdmin",
+        "kind": 6,
+        "importPath": "vendor.admin",
+        "description": "vendor.admin",
+        "peekOfCode": "class VendorAdmin(admin.ModelAdmin):\n    list_display = ('user', 'vendor_name', 'is_approved', 'created_at')\n    list_display_links = ('user', 'vendor_name')\n    list_editable = ('is_approved',)\nclass OpeningHourAdmin(admin.ModelAdmin):\n    list_display = ('vendor', 'day', 'from_hour', 'to_hour')\n# Register your models here.\nadmin.site.register(Vendor, VendorAdmin)\nadmin.site.register(OpeningHour, OpeningHourAdmin)",
+        "detail": "vendor.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OpeningHourAdmin",
+        "kind": 6,
+        "importPath": "vendor.admin",
+        "description": "vendor.admin",
+        "peekOfCode": "class OpeningHourAdmin(admin.ModelAdmin):\n    list_display = ('vendor', 'day', 'from_hour', 'to_hour')\n# Register your models here.\nadmin.site.register(Vendor, VendorAdmin)\nadmin.site.register(OpeningHour, OpeningHourAdmin)",
+        "detail": "vendor.admin",
+        "documentation": {}
+    },
+    {
+        "label": "VendorConfig",
+        "kind": 6,
+        "importPath": "vendor.apps",
+        "description": "vendor.apps",
+        "peekOfCode": "class VendorConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'vendor'",
+        "detail": "vendor.apps",
+        "documentation": {}
+    },
+    {
+        "label": "VendorForm",
+        "kind": 6,
+        "importPath": "vendor.forms",
+        "description": "vendor.forms",
+        "peekOfCode": "class VendorForm(forms.ModelForm):\n    vendor_license = forms.FileField(widget=forms.FileInput(attrs={'class':'btn btn-info'}), validators=[allow_only_images_validator])\n    class Meta:\n        model = Vendor\n        fields = ['vendor_name', 'vendor_license']\nclass OpeningHourForm(forms.ModelForm):\n    class Meta:\n        model = OpeningHour\n        fields = ['day', 'from_hour', 'to_hour', 'is_closed']",
+        "detail": "vendor.forms",
+        "documentation": {}
+    },
+    {
+        "label": "OpeningHourForm",
+        "kind": 6,
+        "importPath": "vendor.forms",
+        "description": "vendor.forms",
+        "peekOfCode": "class OpeningHourForm(forms.ModelForm):\n    class Meta:\n        model = OpeningHour\n        fields = ['day', 'from_hour', 'to_hour', 'is_closed']",
+        "detail": "vendor.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Vendor",
+        "kind": 6,
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "peekOfCode": "class Vendor(models.Model):\n    user = models.OneToOneField(User, related_name='user', on_delete=models.CASCADE)\n    user_profile = models.OneToOneField(UserProfile, related_name='userprofile', on_delete=models.CASCADE)\n    vendor_name = models.CharField(max_length=50)\n    vendor_slug = models.SlugField(max_length=100, unique=True)\n    vendor_license = models.ImageField(upload_to = 'vendor/license')\n    is_approved = models.BooleanField(default=False)\n    created_at = models.DateTimeField(auto_now_add=True)\n    modified_at = models.DateTimeField(auto_now=True)\n    def __str__(self):",
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "OpeningHour",
+        "kind": 6,
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "peekOfCode": "class OpeningHour(models.Model):\n    vendor = models.ForeignKey(Vendor, on_delete = models.CASCADE)\n    day = models.IntegerField(choices = DAYS)\n    from_hour = models.CharField(choices = HOUR_OF_DAY_24, max_length=10, blank=True)\n    to_hour = models.CharField(choices = HOUR_OF_DAY_24, max_length=10, blank=True)\n    is_closed = models.BooleanField(default=False)\n    class Meta:\n        ordering = ('day', '-from_hour')\n        unique_together = ('vendor', 'day', 'from_hour', 'to_hour')\n    def __str__(self):",
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "DAYS",
+        "kind": 5,
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "peekOfCode": "DAYS = [\n    (1, (\"Monday\")),\n    (2, (\"Tuesday\")),\n    (3, (\"Wednesday\")),\n    (4, (\"Thursday\")),\n    (5, (\"Friday\")),\n    (6, (\"Saturday\")),\n    (7, (\"Sunday\")),\n]\nHOUR_OF_DAY_24 = [(time(h,m).strftime('%I:%M %p'), time(h,m).strftime('%I:%M %p')) for h in range(0, 24) for m in (0,30)]",
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "HOUR_OF_DAY_24",
+        "kind": 5,
+        "importPath": "vendor.models",
+        "description": "vendor.models",
+        "peekOfCode": "HOUR_OF_DAY_24 = [(time(h,m).strftime('%I:%M %p'), time(h,m).strftime('%I:%M %p')) for h in range(0, 24) for m in (0,30)]\nclass OpeningHour(models.Model):\n    vendor = models.ForeignKey(Vendor, on_delete = models.CASCADE)\n    day = models.IntegerField(choices = DAYS)\n    from_hour = models.CharField(choices = HOUR_OF_DAY_24, max_length=10, blank=True)\n    to_hour = models.CharField(choices = HOUR_OF_DAY_24, max_length=10, blank=True)\n    is_closed = models.BooleanField(default=False)\n    class Meta:\n        ordering = ('day', '-from_hour')\n        unique_together = ('vendor', 'day', 'from_hour', 'to_hour')",
+        "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "vendor.urls",
+        "description": "vendor.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", AccountViews.vendorDashboard, name = 'vendor'),\n    path('profile/', views.vprofile, name='vprofile'),\n    path('menu-builder/', views.menu_builder, name = 'menu_builder'),\n    path('menu-builder/category/<int:pk>/', views.fooditems_by_category, name = 'fooditems_by_category'),\n    path('menu-builder/category/add/', views.add_category, name = 'add_category'),\n    path('menu-builder/category/edit/<int:pk>/', views.edit_category, name = 'edit_category'),\n    path('menu-builder/category/delete/<int:pk>/', views.delete_category, name = 'delete_category'),\n    path('menu-builder/food/add/', views.add_food, name = 'add_food'),\n    path('menu-builder/food/edit/<int:pk>/', views.edit_food, name = 'edit_food'),",
+        "detail": "vendor.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_vendor",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def get_vendor(request):\n    vendor = Vendor.objects.get(user=request.user)\n    return vendor\n# Create your views here.\n@login_required(login_url='login')\n@user_passes_test(check_role_vendor)\ndef vprofile(request):\n    profile = get_object_or_404(UserProfile, user=request.user)\n    vendor = get_object_or_404(Vendor, user=request.user)\n    if request.method == 'POST':",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "vprofile",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def vprofile(request):\n    profile = get_object_or_404(UserProfile, user=request.user)\n    vendor = get_object_or_404(Vendor, user=request.user)\n    if request.method == 'POST':\n        profile_form = UserProfileForm(request.POST, request.FILES, instance=profile)\n        vendor_form = VendorForm(request.POST, request.FILES, instance=vendor)\n        if profile_form.is_valid() and vendor_form.is_valid():\n            profile_form.save()\n            vendor_form.save()\n            messages.success(request, 'Settings updated.')",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "menu_builder",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def menu_builder(request):\n    vendor = get_vendor(request)\n    categories = Category.objects.filter(vendor = vendor).order_by('created_at')\n    context = {\n        'categories': categories,\n    }\n    return render(request, 'vendor/menu_builder.html', context)\n@login_required(login_url='login')\n@user_passes_test(check_role_vendor)\ndef fooditems_by_category(request, pk = None):",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "fooditems_by_category",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def fooditems_by_category(request, pk = None):\n    vendor = get_vendor(request)\n    category = get_object_or_404(Category, pk = pk)\n    food_items = FoodItem.objects.filter(vendor=vendor, category=category)\n    context = {\n        'food_items':food_items,\n        'category': category,\n    }\n    return render(request, 'vendor/fooditems_by_category.html', context)\n@login_required(login_url='login')",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_category",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def add_category(request):\n    if request.method == 'POST':\n        form = CategoryForm(request.POST)\n        if form.is_valid():\n            category_name = form.cleaned_data['category_name']\n            category = form.save(commit=False)\n            category.vendor = get_vendor(request)\n            category.save() # here category ID will be generated\n            category.slug = slugify(category_name) + '-' + str(category.id)\n            category.save()",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_category",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def edit_category(request, pk = None):\n    category = get_object_or_404(Category, pk = pk)\n    if request.method == 'POST':\n        form = CategoryForm(request.POST, instance=category)\n        if form.is_valid():\n            category_name = form.cleaned_data['category_name']\n            category = form.save(commit=False)\n            category.vendor = get_vendor(request)\n            category.save() # here category ID will be generated\n            category.slug = slugify(category_name) + '-' + str(category.id)",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_category",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def delete_category(request, pk=None):\n    category = get_object_or_404(Category, pk=pk)\n    category.delete()\n    messages.success(request, 'Category deleted successfully!')\n    return redirect('menu_builder')\n@login_required(login_url='login')\n@user_passes_test(check_role_vendor)\ndef add_food(request):\n    if request.method == 'POST':\n        form = FoodItemForm(request.POST, request.FILES)",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_food",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def add_food(request):\n    if request.method == 'POST':\n        form = FoodItemForm(request.POST, request.FILES)\n        if form.is_valid():\n            food_title = form.cleaned_data['food_title']\n            food = form.save(commit=False)\n            food.vendor = get_vendor(request)\n            food.slug = slugify(food_title)\n            form.save()\n            messages.success(request, 'Food Item added successfully!')",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_food",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def edit_food(request, pk = None):\n    food = get_object_or_404(FoodItem, pk = pk)\n    if request.method == 'POST':\n        form = FoodItemForm(request.POST, request.FILES, instance=food)\n        if form.is_valid():\n            food_title = form.cleaned_data['food_title']\n            food = form.save(commit=False)\n            food.vendor = get_vendor(request)\n            food.slug = slugify(food_title)\n            form.save()",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_food",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def delete_food(request, pk = None):\n    food = get_object_or_404(FoodItem, pk=pk)\n    food.delete()\n    messages.success(request, 'Food Item deleted successfully!')\n    return redirect('fooditems_by_category', food.category.id)\ndef opening_hours(request):\n    opening_hours = OpeningHour.objects.filter(vendor = get_vendor(request))\n    form = OpeningHourForm()\n    context = {\n        'form': form,",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "opening_hours",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def opening_hours(request):\n    opening_hours = OpeningHour.objects.filter(vendor = get_vendor(request))\n    form = OpeningHourForm()\n    context = {\n        'form': form,\n        'opening_hours': opening_hours,\n    }\n    return render(request, 'vendor/opening_hours.html', context)\ndef add_opening_hours(request):\n    if request.user.is_authenticated:",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_opening_hours",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def add_opening_hours(request):\n    if request.user.is_authenticated:\n        if request.is_ajax() and request.method == 'POST':\n            day = request.POST['day']\n            from_hour = request.POST['from_hour']\n            to_hour = request.POST['to_hour']\n            is_closed = request.POST['is_closed']\n            if is_closed == 'True':\n                from_hour = \"\"\n                to_hour = \"\"",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "remove_opening_hours",
+        "kind": 2,
+        "importPath": "vendor.views",
+        "description": "vendor.views",
+        "peekOfCode": "def remove_opening_hours(request, pk = None):\n    if request.user.is_authenticated:\n        if request.is_ajax():\n            hour = get_object_or_404(OpeningHour, pk=pk)\n            hour.delete()\n            return JsonResponse({'status': 'success', 'id': pk})",
+        "detail": "vendor.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'foodOnline_main.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

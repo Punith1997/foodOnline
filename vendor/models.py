@@ -24,7 +24,8 @@ class Vendor(models.Model):
                 mail_template = 'accounts/emails/admin_approval_email.html'
                 context = {
                     'user': self.user,
-                    'is_approved': self.is_approved
+                    'is_approved': self.is_approved,
+                    'to_email': self.user.email,
                 }
                 if self.is_approved == True:
                     mail_subject = "Congratulations! Your restaurant has been approved."

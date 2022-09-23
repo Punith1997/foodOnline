@@ -152,14 +152,6 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -257,6 +249,46 @@
     },
     {
         "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -432,6 +464,14 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
         "label": "django.db.models.deletion",
         "kind": 6,
         "isExtraImport": true,
@@ -483,6 +523,14 @@
     },
     {
         "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
         "importPath": "django.contrib",
         "description": "django.contrib",
         "isExtraImport": true,
@@ -578,7 +626,31 @@
         "documentation": {}
     },
     {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
         "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
         "importPath": "accounts.models",
         "description": "accounts.models",
         "isExtraImport": true,
@@ -671,6 +743,14 @@
         "description": "vendor.models",
         "isExtraImport": true,
         "detail": "vendor.models",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
         "documentation": {}
     },
     {
@@ -810,6 +890,38 @@
         "documentation": {}
     },
     {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -827,22 +939,6 @@
     },
     {
         "label": "path",
-        "importPath": "django.urls",
-        "description": "django.urls",
-        "isExtraImport": true,
-        "detail": "django.urls",
-        "documentation": {}
-    },
-    {
-        "label": "path",
-        "importPath": "django.urls",
-        "description": "django.urls",
-        "isExtraImport": true,
-        "detail": "django.urls",
-        "documentation": {}
-    },
-    {
-        "label": "include",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -1051,6 +1147,22 @@
         "documentation": {}
     },
     {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
         "label": "get_object_or_404",
         "importPath": "django.shortcuts",
         "description": "django.shortcuts",
@@ -1107,6 +1219,14 @@
         "documentation": {}
     },
     {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
         "label": "JsonResponse",
         "importPath": "django.http",
         "description": "django.http",
@@ -1132,6 +1252,14 @@
     },
     {
         "label": "user_passes_test",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
         "importPath": "django.contrib.auth.decorators",
         "description": "django.contrib.auth.decorators",
         "isExtraImport": true,
@@ -1355,6 +1483,14 @@
         "documentation": {}
     },
     {
+        "label": "FoodItem",
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "isExtraImport": true,
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
         "label": "Category",
         "importPath": "menu.models",
         "description": "menu.models",
@@ -1368,6 +1504,15 @@
         "description": "menu.models",
         "isExtraImport": true,
         "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -1408,6 +1553,14 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "OrderForm",
+        "importPath": "orders.forms",
+        "description": "orders.forms",
+        "isExtraImport": true,
+        "detail": "orders.forms",
         "documentation": {}
     },
     {
@@ -1877,11 +2030,68 @@
         "documentation": {}
     },
     {
-        "label": "fromshare",
-        "importPath": "socket",
-        "description": "socket",
+        "label": "Order",
+        "importPath": "orders.models",
+        "description": "orders.models",
         "isExtraImport": true,
-        "detail": "socket",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedFood",
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "isExtraImport": true,
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "isExtraImport": true,
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "isExtraImport": true,
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "simplejson",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "simplejson",
+        "description": "simplejson",
+        "detail": "simplejson",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "importPath": "marketplace.models",
+        "description": "marketplace.models",
+        "isExtraImport": true,
+        "detail": "marketplace.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart_amount",
+        "importPath": "marketplace.context_processors",
+        "description": "marketplace.context_processors",
+        "isExtraImport": true,
+        "detail": "marketplace.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "generate_order_number",
+        "importPath": "orders.utils",
+        "description": "orders.utils",
+        "isExtraImport": true,
+        "detail": "orders.utils",
         "documentation": {}
     },
     {
@@ -1890,6 +2100,22 @@
         "description": "accounts.utils",
         "isExtraImport": true,
         "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification",
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "isExtraImport": true,
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "fromshare",
+        "importPath": "socket",
+        "description": "socket",
+        "isExtraImport": true,
+        "detail": "socket",
         "documentation": {}
     },
     {
@@ -2011,7 +2237,7 @@
         "kind": 2,
         "importPath": "accounts.context_processors",
         "description": "accounts.context_processors",
-        "peekOfCode": "def get_user_profile(request):\n    try:\n        user_profile = UserProfile.objects.get(user = request.user)\n    except:\n        user_profile=None\n    return dict(user_profile=user_profile)\ndef get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}",
+        "peekOfCode": "def get_user_profile(request):\n    try:\n        user_profile = UserProfile.objects.get(user = request.user)\n    except:\n        user_profile=None\n    return dict(user_profile=user_profile)\ndef get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}\ndef get_paypal_client_id(request):\n    return {'PAYPAL_CLIENT_ID': settings.PAYPAL_CLIENT_ID}",
         "detail": "accounts.context_processors",
         "documentation": {}
     },
@@ -2020,7 +2246,16 @@
         "kind": 2,
         "importPath": "accounts.context_processors",
         "description": "accounts.context_processors",
-        "peekOfCode": "def get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}",
+        "peekOfCode": "def get_google_api(request):\n    return {'GOOGLE_API_KEY': settings.GOOGLE_API_KEY}\ndef get_paypal_client_id(request):\n    return {'PAYPAL_CLIENT_ID': settings.PAYPAL_CLIENT_ID}",
+        "detail": "accounts.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "get_paypal_client_id",
+        "kind": 2,
+        "importPath": "accounts.context_processors",
+        "description": "accounts.context_processors",
+        "peekOfCode": "def get_paypal_client_id(request):\n    return {'PAYPAL_CLIENT_ID': settings.PAYPAL_CLIENT_ID}",
         "detail": "accounts.context_processors",
         "documentation": {}
     },
@@ -2128,7 +2363,7 @@
         "kind": 2,
         "importPath": "accounts.utils",
         "description": "accounts.utils",
-        "peekOfCode": "def send_notification(mail_subject, mail_template, context):\n    from_email = settings.DEFAULT_FROM_EMAIL\n    message = render_to_string(mail_template, context)\n    to_email = context['user'].email\n    mail = EmailMessage(mail_subject, message, from_email, to = [to_email])\n    mail.send()",
+        "peekOfCode": "def send_notification(mail_subject, mail_template, context):\n    from_email = settings.DEFAULT_FROM_EMAIL\n    message = render_to_string(mail_template, context)\n    if (isinstance(context['to_email'], str)):\n        to_email = []\n        to_email.append(context['to_email'])\n    else:\n        to_email = context['to_email']\n    mail = EmailMessage(mail_subject, message, from_email, to = to_email)\n    mail.send()",
         "detail": "accounts.utils",
         "documentation": {}
     },
@@ -2578,7 +2813,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "EMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "EMAIL_PORT = EMAIL_PORT\nEMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2587,7 +2822,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "EMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "EMAIL_HOST_USER = EMAIL_HOST_USER\nEMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2596,7 +2831,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "EMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = EMAIL_HOST_PASSWORD\nEMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2605,7 +2840,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "EMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "EMAIL_USE_TLS = EMAIL_USE_TLS\nDEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2614,7 +2849,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "DEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = DEFAULT_FROM_EMAIL\nGOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2623,7 +2858,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "GOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "GOOGLE_API_KEY = config('GOOGLE_API_KEY')\nos.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2632,7 +2867,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "os.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "os.environ['PATH'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo') + ';' + os.environ['PATH']\nos.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2641,7 +2876,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "os.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "os.environ['PROJ_LIB'] = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\data\\proj') + ';' + os.environ['PATH']\nGDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2650,7 +2885,16 @@
         "kind": 5,
         "importPath": "foodOnline_main.settings",
         "description": "foodOnline_main.settings",
-        "peekOfCode": "GDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')",
+        "peekOfCode": "GDAL_LIBRARY_PATH = os.path.join(BASE_DIR, 'mvenv\\Lib\\site-packages\\osgeo\\gdal304.dll')\nPAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
+        "detail": "foodOnline_main.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PAYPAL_CLIENT_ID",
+        "kind": 5,
+        "importPath": "foodOnline_main.settings",
+        "description": "foodOnline_main.settings",
+        "peekOfCode": "PAYPAL_CLIENT_ID = config('PAYPAL_CLIENT_ID')\n# SECURE_CROSS_ORIGIN_OPENER_POLICY = 'same-origin-allow-popups' # for django 4",
         "detail": "foodOnline_main.settings",
         "documentation": {}
     },
@@ -2659,7 +2903,7 @@
         "kind": 5,
         "importPath": "foodOnline_main.urls",
         "description": "foodOnline_main.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\", views.home, name = 'home'),\n    path('', include('accounts.urls')),\n    path('marketplace/', include('marketplace.urls')),\n    path('cart/', MarketplaceViews.cart, name = \"cart\"),\n    path('search/', MarketplaceViews.search, name = 'search' ),\n] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\", views.home, name = 'home'),\n    path('', include('accounts.urls')),\n    path('marketplace/', include('marketplace.urls')),\n    path('cart/', MarketplaceViews.cart, name = \"cart\"),\n    path('search/', MarketplaceViews.search, name = 'search' ),\n    path('chekcout/', MarketplaceViews.checkout, name=\"checkout\"),\n    path('orders/', include('orders.urls')),\n] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)",
         "detail": "foodOnline_main.urls",
         "documentation": {}
     },
@@ -2706,6 +2950,15 @@
         "description": "marketplace.migrations.0002_tax",
         "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('marketplace', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Tax',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('tax_type', models.CharField(max_length=20, unique=True)),",
         "detail": "marketplace.migrations.0002_tax",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "marketplace.migrations.0003_alter_tax_options",
+        "description": "marketplace.migrations.0003_alter_tax_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('marketplace', '0002_tax'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='tax',\n            options={'verbose_name_plural': 'tax'},\n        ),\n    ]",
+        "detail": "marketplace.migrations.0003_alter_tax_options",
         "documentation": {}
     },
     {
@@ -2840,6 +3093,15 @@
         "importPath": "marketplace.views",
         "description": "marketplace.views",
         "peekOfCode": "def search(request):\n    if not 'address' in request.GET:\n        return redirect('marketplace')\n    else:\n        address = request.GET[\"address\"]\n        latitude = request.GET['lat']\n        longitude = request.GET['lng']\n        radius = request.GET['radius']\n        keyword = request.GET['keyword']\n        fetch_vendors_by_fooditems = FoodItem.objects.filter(food_title__icontains = keyword, is_available = True).values_list('vendor', flat=True)",
+        "detail": "marketplace.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "marketplace.views",
+        "description": "marketplace.views",
+        "peekOfCode": "def checkout(request):\n    cart_items = Cart.objects.filter(user = request.user).order_by(\"created_at\")\n    cart_count = cart_items.count()\n    if cart_count <= 0:\n        return redirect('marketplace')\n    user_profile = UserProfile.objects.get(user=request.user)\n    default_values = {\n        'first_name': request.user.first_name,\n        'last_name': request.user.last_name,\n        'phone': request.user.phone_number,",
         "detail": "marketplace.views",
         "documentation": {}
     },
@@ -2985,6 +3247,114 @@
         "description": "menu.models",
         "peekOfCode": "class FoodItem(models.Model):\n    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE)\n    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name = 'fooditems')\n    food_title = models.CharField(max_length=50)\n    slug = models.SlugField(max_length=100, unique=True)\n    description = models.TextField(max_length=250, blank=True)\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    image = models.ImageField(upload_to = 'foodimages')\n    is_available = models.BooleanField(default=True)\n    created_at = models.DateTimeField(auto_now_add=True)",
         "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "orders.migrations.0001_initial",
+        "description": "orders.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('menu', '0008_alter_category_category_name'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Order',\n            fields=[",
+        "detail": "orders.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedFoodInline",
+        "kind": 6,
+        "importPath": "orders.admin",
+        "description": "orders.admin",
+        "peekOfCode": "class OrderedFoodInline(admin.TabularInline):\n    model = OrderedFood\n    readonly_fields = ('order', 'payment', 'user', 'fooditem', 'quantity', 'price', 'amount')\n    extra = 0\nclass OrderAdmin(admin.ModelAdmin):\n    list_display = ['order_number', 'name', 'phone', 'email', 'total', 'payment_method', 'is_ordered']\n    inlines = [OrderedFoodInline]\n# Register your models here.\nadmin.site.register(Payment)\nadmin.site.register(Order, OrderAdmin)",
+        "detail": "orders.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OrderAdmin",
+        "kind": 6,
+        "importPath": "orders.admin",
+        "description": "orders.admin",
+        "peekOfCode": "class OrderAdmin(admin.ModelAdmin):\n    list_display = ['order_number', 'name', 'phone', 'email', 'total', 'payment_method', 'is_ordered']\n    inlines = [OrderedFoodInline]\n# Register your models here.\nadmin.site.register(Payment)\nadmin.site.register(Order, OrderAdmin)\nadmin.site.register(OrderedFood)",
+        "detail": "orders.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OrdersConfig",
+        "kind": 6,
+        "importPath": "orders.apps",
+        "description": "orders.apps",
+        "peekOfCode": "class OrdersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'orders'",
+        "detail": "orders.apps",
+        "documentation": {}
+    },
+    {
+        "label": "OrderForm",
+        "kind": 6,
+        "importPath": "orders.forms",
+        "description": "orders.forms",
+        "peekOfCode": "class OrderForm(forms.ModelForm):\n    class Meta:\n        model = Order\n        fields = ['first_name', 'last_name', 'phone', 'email', 'address', 'country', 'state', 'city', 'pin_code']",
+        "detail": "orders.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "kind": 6,
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "peekOfCode": "class Payment(models.Model):\n    PAYMENT_METHOD = (\n        ('PayPal', 'PayPal'),\n        ('RazorPay', 'RazorPay'), # Only for Indian Students.\n    )\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    transaction_id = models.CharField(max_length=100)\n    payment_method = models.CharField(choices=PAYMENT_METHOD, max_length=100)\n    amount = models.CharField(max_length=10)\n    status = models.CharField(max_length=100)",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "peekOfCode": "class Order(models.Model):\n    STATUS = (\n        ('New', 'New'),\n        ('Accepted', 'Accepted'),\n        ('Completed', 'Completed'),\n        ('Cancelled', 'Cancelled'),\n    )\n    user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)\n    payment = models.ForeignKey(Payment, on_delete=models.SET_NULL, blank=True, null=True)\n    order_number = models.CharField(max_length=20)",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedFood",
+        "kind": 6,
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "peekOfCode": "class OrderedFood(models.Model):\n    order = models.ForeignKey(Order, on_delete=models.CASCADE)\n    payment = models.ForeignKey(Payment, on_delete=models.SET_NULL, blank=True, null=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    fooditem = models.ForeignKey(FoodItem, on_delete=models.CASCADE)\n    quantity = models.IntegerField()\n    price = models.FloatField()\n    amount = models.FloatField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "orders.urls",
+        "description": "orders.urls",
+        "peekOfCode": "urlpatterns = [\n    path('place-order/', views.place_order, name='place_order'),\n    path('payments/', views.payments, name='payments'),\n]",
+        "detail": "orders.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate_order_number",
+        "kind": 2,
+        "importPath": "orders.utils",
+        "description": "orders.utils",
+        "peekOfCode": "def generate_order_number(pk):\n    current_datetime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')\n    order_number = current_datetime + str(pk)\n    return order_number",
+        "detail": "orders.utils",
+        "documentation": {}
+    },
+    {
+        "label": "place_order",
+        "kind": 2,
+        "importPath": "orders.views",
+        "description": "orders.views",
+        "peekOfCode": "def place_order(request):\n    cart_items = Cart.objects.filter(user = request.user).order_by(\"created_at\")\n    cart_count = cart_items.count()\n    if cart_count <= 0:\n        return redirect('marketplace')\n    subtotal = get_cart_amount(request)['subtotal']\n    total_tax = get_cart_amount(request)['tax']\n    grand_total = get_cart_amount(request)['grand_total']\n    tax_data = get_cart_amount(request)['tax_dict']\n    if request.method == 'POST':",
+        "detail": "orders.views",
+        "documentation": {}
+    },
+    {
+        "label": "payments",
+        "kind": 2,
+        "importPath": "orders.views",
+        "description": "orders.views",
+        "peekOfCode": "def payments(request):\n    if request.is_ajax() and request.method == 'POST':\n        order_number = request.POST.get('order_number')\n        transaction_id = request.POST.get('transaction_id')\n        payment_method = request.POST.get('payment_method')\n        status = request.POST.get('status')\n        order = Order.objects.get(user = request.user, order_number=order_number)\n        payment = Payment(\n            user = request.user,\n            transaction_id = transaction_id,",
+        "detail": "orders.views",
         "documentation": {}
     },
     {

@@ -1,4 +1,3 @@
-from socket import fromshare
 from django import forms
 from .models import Vendor, OpeningHour
 from accounts.validators import allow_only_images_validator
